@@ -25,7 +25,8 @@
 <img src="https://img.shields.io/badge/Redux-purple?style=for-the-badge&logo=redux"/>
 <img src="https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss"/>
 <img src="https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge&logo=mysql"/>
-<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=html"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
 
 </p>
 
