@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Sameer</h1>
-<h3 align="center">🚀 Full Stack Developer | Javascript | React | Node  | Express | MongoDB | Problem Solver</h3>
+<h3 align="center">🚀 Full Stack Developer | Javascript | React | Node  | Express | MongoDB | MERN Stack | REST APIs | DSA | Problem Solver</h3>
 
 ---
 
