@@ -45,13 +45,12 @@
 
 ---
 
-#### 🔹 AccioConnect (Social Platform)
+#### 🔹 SocialConnect (Social Platform)
 
-* Full-stack social app with **JWT authentication & real-time chat**
-* 🔔 Real-time notifications using **Socket.IO**
+* Full-stack social app with **JWT authentication**
 * ☁️ Media storage using **AWS S3**
 
-👉 [GitHub Repo](https://github.com/Sameermd25/Accio-Connect)
+👉 [GitHub Repo](https://github.com/Sameermd25/SocialConnect)
 
 ---
 
